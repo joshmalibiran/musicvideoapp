@@ -1,4 +1,5 @@
 # music-video-app
+![homepage](https://github.com/joshmalibiran/musicvideoapp/assets/110061350/aaf7dcfe-6545-4ceb-8bb7-ca8f005c3ae2)
 
 ## Project setup
 ```
